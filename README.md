@@ -65,7 +65,7 @@ Flutter app displaying country information using REST API
 - **Tech:** Flutter, REST API, MVVM Pattern
 - **Features:** Clean architecture, Repository pattern, API integration
 
-### 🚗 [Car Rental Application](https://github.com/AysarSalameh/car-rental-app)
+### 🚗 [Car Rental Application](https://github.com/AysarSalameh/ProjectAndroid.git)
 
 Native Android app for car rentals
 
