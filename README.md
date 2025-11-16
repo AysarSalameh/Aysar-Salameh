@@ -51,7 +51,7 @@ Cross-platform HR solution with mobile app and web dashboard
 - **Tech:** Flutter, Firebase, BLoC, Multi-language (AR/EN)
 - **Features:** Role-based auth, Real-time attendance, Multi-platform
 
-### 🛴 [Askooter - Scooter Rental App](https://github.com/AysarSalameh/askooter)
+### 🛴 [Askooter - Scooter Rental App](https://github.com/zreaqqasem/Askooter.git)
 
 Urban mobility solution with real-time tracking
 
